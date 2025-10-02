@@ -1,0 +1,10 @@
+psycopg[binary]
+psycopg2
+mysqlclient
+sqlalchemy
+agno
+python-dotenv
+requests
+openai
+fastapi[standard]
+duckdb
